@@ -1,2 +1,2 @@
-# Weather-App-Project
+# Weather_App_Project
 Developed a weather app using Tkinter in PyCharm, integrating an online weather API to fetch real-time data based    on user input. The app features an intuitive GUI, allowing users to enter a city name and view current weather conditions, including temperature, humidity, and weather descriptions. Incorporated error handling to ensure smooth functionality even with invalid inputs and optimized API calls for faster data retrieval. This tool provides a user-friendly interface for convenient access to detailed and accurate weather information. 
